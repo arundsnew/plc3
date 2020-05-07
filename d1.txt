@@ -5,3 +5,4 @@ add for jenkins test3
 git add test4
 add jenkins test5
 add jenkins test 6
+add jenkins test 7
