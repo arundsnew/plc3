@@ -10,7 +10,7 @@ Clone the repository locally in this case a window machine, this will copy the f
 Git push which will ask for login credentials once supplied the modified content of the file cloned will be ready to be pushed to the said repository (image7.png)
 
 
-Git commit will make sure the modified content is updated to the Github repository as well (image.png)
+Git commit will make sure the modified content is updated to the Github repository as well (image9.png)
 Since the repository related is set, now Jenkins needs to be setup and make sure its running and accessible via 8080 port by default (image22.png, image10.png)
 
 
